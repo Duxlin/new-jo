@@ -1,6 +1,6 @@
 /**
-   * Create By THE JO BOT
-   * Base By Dika
+   * Create By QUADHIR
+   * Base by Dika Ardnt
 */
 
 const fs = require('fs')
@@ -15,16 +15,16 @@ global.APIs = {
 global.APIKeys = {
 	'https://zenzapis.xyz': 'Your Key',
 }
-global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 
-global.ownername = 'DUX BOT'
+
+global.ownername = '𝕯U͜͡𝖃-𝕭𝕺𝙏'
+global.autorecording = false //status auto merekam ( auto record )
+global.autoketik = false //status auto mengetik (auto typing)
+global.available = false //status online (online)
 // Other
-global.owner = ['2347082252014']
+global.owner = ['2347082252014','79818648925','79603485925']
 global.premium = ['2347082252014']
-global.packname = 'Hisoka Morrow'
+global.packname = '𝕯U͜͡𝖃-𝕭𝕺𝙏'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
 global.sessionName = 'session'
@@ -33,13 +33,13 @@ global.sp = '⭔'
 global.mess = {
     success: '✓ Success',
     admin: 'Group Admin Special Features!',
-    botAdmin: 'Bot Must Be Admin First!',
+    botAdmin: 'Make.Bot Admin First!',
     owner: 'Bot Owner Special Features',
-    group: 'Features Used Only In Groups!',
-    private: 'Feature used only in private chat!',
+    group: 'This Feature Can Only Be Used In Groups!',
+    private: 'This Feature Can Only Be Used InPrivate Chat!',
     bot: 'Bot Number User Special Features',
-    wait: '𝖑𝖔𝖆𝖉𝖎𝖓𝖌...Please be patient',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    wait: 'Loading...Be patient',
+    endLimit: 'Your Daily Limit Has Expired, The Limit Resets After Every 12 Hours',
 }
 global.limitawal = {
     premium: "Infinity",
